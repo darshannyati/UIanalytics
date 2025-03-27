@@ -1,3 +1,6 @@
-# UIanalytics - make mobile analytics grate again
-it is readme
+#Steps to create UIanalytics
+```
+python -m venv myenv
 
+```
+>python -m venv myenv
